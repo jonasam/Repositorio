@@ -11,9 +11,9 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
         }
-        public int Soma(int a, int b)
+        public int Soma(int a, int b, int c)
         {
-            return a + b;
+            return a + b + c;
         }
     }
 }
